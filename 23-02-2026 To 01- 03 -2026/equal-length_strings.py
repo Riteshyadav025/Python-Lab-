@@ -1,4 +1,4 @@
-arr = ["GeeksforGeeeks", "I", "from", "am"]
+arr = ["You", "are", "beautiful", "looking"]
 
 sorted_arr = sorted(arr, key=len)
 
