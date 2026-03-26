@@ -17,8 +17,6 @@ def winner(arr):
 
     return [winner_name, str(max_votes)]
 
-
-# Given input
 arr = ["john", "johnny", "jackie", "johnny", "john", "jackie",
        "jamie", "jamie", "john", "johnny", "jamie", "johnny", "john"]
 
