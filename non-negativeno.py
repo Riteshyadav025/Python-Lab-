@@ -1,3 +1,4 @@
+//
 def min_jumps(arr):
     n = len(arr)
     
