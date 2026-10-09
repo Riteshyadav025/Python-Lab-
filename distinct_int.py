@@ -1,4 +1,4 @@
-def search_insert(nums, target):
+def search_insert(nums, target);
     left = 0
     right = len(nums) - 1
 
