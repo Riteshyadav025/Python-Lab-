@@ -1,4 +1,5 @@
-def kth_smallest(arr, k):
+// 
+    def kth_smallest(arr, k):
     arr_sorted = sorted(arr)
     return arr_sorted[k - 1]
 
