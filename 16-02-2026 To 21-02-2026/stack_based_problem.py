@@ -15,4 +15,4 @@ for i in range(n):
     
     stack.append(arr[i])
 
-print(result)
+print(result)  //
