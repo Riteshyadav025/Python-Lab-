@@ -32,4 +32,4 @@ while current_end < n:
     current_end = far
 
 if current_end >= n:
-    print(count)
+    print(count)  //
