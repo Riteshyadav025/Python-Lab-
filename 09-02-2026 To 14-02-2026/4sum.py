@@ -41,4 +41,4 @@ def fourSum(nums, target):
     
     return result
 
-print(fourSum(nums, target))
+print(fourSum(nums, target)) //
