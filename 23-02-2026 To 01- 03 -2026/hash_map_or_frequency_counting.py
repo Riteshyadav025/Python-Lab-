@@ -29,4 +29,4 @@ def shortest_vowel_substring(s1, s2):
 
 s1 = "ae"
 s2 = "acbaudeq"
-print(shortest_vowel_substring(s1, s2))
+print(shortest_vowel_substring(s1, s2))   //
