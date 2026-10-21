@@ -8,7 +8,7 @@ def winner(arr):
     max_votes = 0
     winner_name = ""
 
-    ## Find winner with tie-breaking (lexicographically smallest)
+    ### Find winner with tie-breaking (lexicographically smallest)
     for name in vote_count:
         if (vote_count[name] > max_votes) or \
            (vote_count[name] == max_votes and name < winner_name):
