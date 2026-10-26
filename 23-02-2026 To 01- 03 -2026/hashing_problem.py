@@ -1,7 +1,7 @@
 def winner(arr):
     vote_count = {}
 
-    # Count votes
+    ## Count votes
     for name in arr:
         vote_count[name] = vote_count.get(name, 0) + 1
 
