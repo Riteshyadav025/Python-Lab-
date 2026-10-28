@@ -9,4 +9,4 @@ for num in arr:
         maximum = num
 
 result = [minimum, maximum]
-print(result)  //
+print(result)  
