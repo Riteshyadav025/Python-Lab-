@@ -1,4 +1,4 @@
-arr = [1, 4, 3, 5, 8, 6]
+arr = [1, 4, 3, 5, 8, 6,7]
 
 minimum = maximum = arr[0]
 
