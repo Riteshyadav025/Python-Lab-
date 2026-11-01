@@ -10,5 +10,5 @@ def count_vowel_strings(arr):
 
 
 # Example usage
-arr = ["aeio", "aa", "bc", "ot", "cdbd"]
+arr = ["aeio", "aa", "bc", "ot", "cdbd" , "aaccbb"]
 print(count_vowel_strings(arr)) 
